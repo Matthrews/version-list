@@ -64,6 +64,10 @@ Nuxt.js 基于 Vue.js 的轻量级应用框架
 
 [CHANGELOG](https://nuxtjs.org/announcements)
 
+Gatsby Gatsby 是一个基于 React 的免费、开源框架，用于帮助 开发者构建运行速度极快的网站和应用程序
+
+[Docs](https://www.gatsbyjs.cn/)
+
 
 ## 可视化  
 
@@ -107,5 +111,3 @@ Relay: https://relay.dev/docs/
 useSWR: https://juejin.cn/post/6943397563114455048
 
 React Query: https://react-query.tanstack.com/
-
-Gatsby: https://www.gatsbyjs.cn/
