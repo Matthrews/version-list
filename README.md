@@ -98,6 +98,14 @@ dumi 📖 为组件开发场景而生的文档工具
 [Docs](https://d.umijs.org/zh-CN/guide)
 
 
-## GraphQL
+## 其他
 
-https://www.apollographql.com/
+Apollo: https://www.apollographql.com/
+
+Relay: https://relay.dev/docs/
+
+useSWR: https://juejin.cn/post/6943397563114455048
+
+React Query: https://react-query.tanstack.com/
+
+Gatsby: https://www.gatsbyjs.cn/
