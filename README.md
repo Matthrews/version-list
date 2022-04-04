@@ -111,3 +111,5 @@ Relay: https://relay.dev/docs/
 useSWR: https://juejin.cn/post/6943397563114455048
 
 React Query: https://react-query.tanstack.com/
+
+Astro: https://astro.build/
